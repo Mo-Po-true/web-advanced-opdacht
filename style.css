@@ -158,3 +158,195 @@ h1{
         background-position: 35% 20%;
     }
 }
+
+
+/*----------------------------------------------------*/
+/*----------------------------------------------------*/
+/*                    INFO                  */
+.section-title {
+    color:black ; 
+    text-align: center;
+    font-size: 65px;
+    padding: 60px 20px 120px; 
+    text-transform: uppercase;
+}
+.section-title2 {
+    color:black ; 
+    text-align: center;
+    font-size: 30px;
+    padding: 60px 20px 120px; 
+    text-transform: uppercase;
+}
+
+.info-section{
+    display: flex ;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    background: #f1f1f1;
+}
+
+.info-card{
+    width: 350px;
+    height: auto;
+    margin: 0 20px 80px;
+}
+
+.container-info-photo img{
+    width: 100%;
+    height: 500px;
+    object-fit:cover;
+}
+
+.info-card h2{
+    color:#333; 
+    text-align: center; 
+    font-size: 24px;
+    padding: 20px 5px;
+}
+
+.info-card p {
+    color:#333; 
+    text-align: center; 
+    font-size: 20px;
+    padding: 0 20px 5px;
+}
+
+
+
+
+
+
+/*----------------------------------------------------*/
+/*----------------------------------------------------*/
+/*                  afbeeldingen             */
+#equipment{
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 1300px;
+    min-width: 300px;
+    margin: 0 auto 100px;
+}
+
+.btn-modal{
+    width: 350px; 
+    height: 400px;
+    border: none; 
+    margin: 10px;
+    cursor: pointer;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn-modal:nth-child(1){
+    background-image: url(afbeeldingen/af1.jpg);
+}
+.btn-modal:nth-child(2){
+    background-image: url(afbeeldingen/af2.jpg);
+}
+.btn-modal:nth-child(3){
+    background-image: url(afbeeldingen/af3.jpg);
+}
+.btn-modal:nth-child(4){
+    background-image: url(afbeeldingen/af4.jpg);
+}
+.btn-modal:nth-child(5){
+    background-image: url(afbeeldingen/af5.jpg);
+}
+.btn-modal:nth-child(6){
+    background-image: url(afbeeldingen/af6.jpg);
+}
+.btn-modal:nth-child(7){
+    background-image: url(afbeeldingen/af7.jpg);
+}
+.btn-modal:nth-child(8){
+    background-image: url(afbeeldingen/af8.jpg);
+}
+.btn-modal:nth-child(9){
+    background-image: url(afbeeldingen/af9.jpg);
+}
+
+.bloc-modal{
+    position: fixed; 
+    top: 0;
+    bottom: 0;
+    left: 0; 
+    right: 0; 
+    background: rgba(0,0,0,0.75 );
+    z-index: 1000;
+    display: none; 
+}
+
+.active-modal{
+    display: block;
+}
+
+.bloc-img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px; 
+    height: 500px; 
+}
+
+.bloc-img img {
+    width: 100%;
+}
+
+.close{
+    position: absolute;
+    z-index: 3000;
+    top: 3%;
+    right: 3%;
+    width: 30px; 
+    height: 30px;
+    font-size: 20px;
+    color: red; 
+    background: white;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+/*----------------------------------------------------*/
+/*----------------------------------------------------*/
+/*                  BENEDEN                 */
+#choice{
+    background-color: black;
+    display: flex;   
+    justify-content: center; 
+    align-items: center; 
+    width: 100%;
+}
+.beneden-links, .beneden-rechts{
+    color:white;
+    width: 30%;
+    text-align: center;
+    margin: 50px 20px 70px; 
+}
+
+h3{
+    font-size: 25px;
+}
+
+h3 p{
+    font-size: 20px;
+    width: 70%;
+    margin: 0 auto 30px; 
+}
