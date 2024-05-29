@@ -24,5 +24,7 @@ Het vierde deel, hoewel niet aanwezig, heb ik wel tijd aan besteed en geprobeerd
 -	Al met al bestaat mijn website dus uit drie delen, maar ik heb wel geprobeerd het vierde deel te implementeren
 
 ## Waarom is dit project nuttig of belangrijk?
+Dit project was een opdracht voor het vak Web Advanced. Tegelijkertijd wilde ik altijd al een eigen website maken, dus paste dit goed bij mijn interesse. Waarom een sportwebsite? Omdat ik zelf graag sport, dus dat was voor mij vanzelfsprekend.
+
 ## Wie is de doelgroep van dit project?
 ## Documentatie en bronnen? 
