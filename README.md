@@ -28,4 +28,22 @@ Dit project was een opdracht voor het vak Web Advanced. Tegelijkertijd wilde ik 
 
 ## Wie is de doelgroep van dit project?
 -	De doelgroep van dit project zijn alle studenten die zich graag willen inschrijven bij de sportclub van de hogeschool. Dit omvat zowel sportieve studenten als studenten die graag actief blijven zonder zich per se als sportief te beschouwen.
+
 ## Documentatie en bronnen? 
+-	Voor de transparantie en omdat het een integraal onderdeel van het project is, zal ik alle bronnen opsommen die ik heb gebruikt, heb bezocht of die mij hebben geïnspireerd.
+-	Alle gebruikte/ bezochte bronnen voor js,html,css  
+-	https://www.jims.be/fr
+-	https://stadiumone.stadium.be/fr/?gad_source=1&gclid=EAIaIQobChMIrb7529iPhgMVxYNoCR2pRw1dEAMYASAAEgIn-fD_BwE 
+-	https://punch.ma/ 
+-	https://www.basic-fit.com/fr-be/home 
+-	https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+-	https://www.youtube.com/watch?v=ctXEjRzIc_c&ab_channel=codeSkill
+-	https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org
+-	https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh 
+-	https://www.youtube.com/watch?v=FazgJVnrVuI&ab_channel=BrianDesign 
+-	https://www.youtube.com/watch?v=qFVVCaOe6z8&list=PL7O32me0iMoIlc5nPd6rqEfTziGj6_wJ4&ab_channel=CarpoolVenom 
+-	https://www.w3schools.com/js/default.asp 
+-	https://www.w3schools.com/css/default.asp 
+-	https://www.w3schools.com/html/default.asp 
+-	Openai gebruikt voor het 4de deel, maar is uiteindelijk niet gelukt om te implementeren 
+( api gevraagd en getest) 
