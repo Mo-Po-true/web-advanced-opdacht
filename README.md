@@ -27,4 +27,5 @@ Het vierde deel, hoewel niet aanwezig, heb ik wel tijd aan besteed en geprobeerd
 Dit project was een opdracht voor het vak Web Advanced. Tegelijkertijd wilde ik altijd al een eigen website maken, dus paste dit goed bij mijn interesse. Waarom een sportwebsite? Omdat ik zelf graag sport, dus dat was voor mij vanzelfsprekend.
 
 ## Wie is de doelgroep van dit project?
+-	De doelgroep van dit project zijn alle studenten die zich graag willen inschrijven bij de sportclub van de hogeschool. Dit omvat zowel sportieve studenten als studenten die graag actief blijven zonder zich per se als sportief te beschouwen.
 ## Documentatie en bronnen? 
