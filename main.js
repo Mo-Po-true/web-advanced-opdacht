@@ -1,4 +1,4 @@
-/* afbeeldingen-page: code om de afbeeldingen te vergroten */
+
 
 /* deel 1 */
 document.addEventListener('DOMContentLoaded', () => {
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-/* deel 2- oranje */
+/* deel 2*/
 document.getElementById('submitBtn').addEventListener('click', function() {
     const { value: username } = document.getElementById('username');
     const { value: email } = document.getElementById('email');

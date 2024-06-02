@@ -51,61 +51,61 @@ Dit project was een opdracht voor het vak Web Advanced. Tegelijkertijd wilde ik 
 ## Details van de Vereisten
 
 ### Elementen selecteren
-- In deel 1
+- Staat in deel 1 van js
 
 ### Callback function
-- In deel 1
+- Staat in deel 1 van js
 
 ### Elementen manipuleren
-- In deel 1
+- Staat in deel 1 van js
 
 ### Promise
-- In deel 2
+- Staat in deel 2 van js
 
 ### Event aan een element koppelen
-- In deel 1
+- Staat in deel 1 van js
 
 ### Consumer methods
-- In deel 2
+- Staat in deel 2 van js
 
 ### Formulier validatie
-- In deel 2
+- Staat in deel 2 van js
 
 ### Async & await
 - NIET VERWERKT
 
 ### Gebruik van een constante
-- In deel 1
+- Staat in deel 1 van js
 
 ### Self executing function
-- In deel 1
+- Staat in deel 1 van js
 
 ### Gebruiken van template literals
-- In deel 1
+- Staat in deel 1 van js
 
 ### Fetch om data op te halen
 - NIET VERWERKT
 
 ### Destructuring
-- In deel 2
+- Staat in deel 2 van js
 
 ### JSON manipuleren en weergeven
 - NIET VERWERKT
 
 ### Spread & rest operator
-- In deel 2
+- Staat in deel 2 van js
 
 ### Basic CSS animatie
 - In css code
 
 ### Iteratie over een array
-- In deel 2
+- Staat in deel 2 van js
 
 ### Gebruiken van een flexbox of CSS grid
 - In css code
 
 ### Arrow function
-- In deel 1
+- Staat in deel 1 van js
 
 ### Gebruiken van localStorage
-- In deel 2
+- Staat in deel 2 van js
