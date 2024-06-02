@@ -47,3 +47,65 @@ Dit project was een opdracht voor het vak Web Advanced. Tegelijkertijd wilde ik 
 -	https://www.w3schools.com/html/default.asp 
 -	Openai gebruikt voor het 4de deel, maar is uiteindelijk niet gelukt om te implementeren 
 ( api gevraagd en getest) 
+
+## Details van de Vereisten
+
+### Elementen selecteren
+- In deel 1
+
+### Callback function
+- In deel 1
+
+### Elementen manipuleren
+- In deel 1
+
+### Promise
+- In deel 2
+
+### Event aan een element koppelen
+- In deel 1
+
+### Consumer methods
+- In deel 2
+
+### Formulier validatie
+- In deel 2
+
+### Async & await
+- NIET VERWERKT
+
+### Gebruik van een constante
+- In deel 1
+
+### Self executing function
+- In deel 1
+
+### Gebruiken van template literals
+- In deel 1
+
+### Fetch om data op te halen
+- NIET VERWERKT
+
+### Destructuring
+- In deel 2
+
+### JSON manipuleren en weergeven
+- NIET VERWERKT
+
+### Spread & rest operator
+- In deel 2
+
+### Basic CSS animatie
+- In css code
+
+### Iteratie over een array
+- In deel 2
+
+### Gebruiken van een flexbox of CSS grid
+- In css code
+
+### Arrow function
+- In deel 1
+
+### Gebruiken van localStorage
+- In deel 2
